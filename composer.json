@@ -1,0 +1,14 @@
+{
+    "name": "sudkrishna/hello-sud",
+    "authors": [
+        {
+            "name": "sudkrishna"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloSud": "src/"
+        }
+    }
+}
